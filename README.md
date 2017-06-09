@@ -1,55 +1,56 @@
 # Python I - Week 1 Assignments
 
-###Strings and Lists
+
+### Strings and Lists
 http://learn.codingdojo.com/m/13/3680/31250
 
-###Multiples, Sum, Average
+### Multiples, Sum, Average
 http://learn.codingdojo.com/m/13/3680/24628
 
-###Filter by Type
+### Filter by Type
 http://learn.codingdojo.com/m/13/3680/32580
 
-###Type List
+### Type List
 http://learn.codingdojo.com/m/13/3680/32622
 
-###Comparing Arrays
+### Comparing Arrays
 http://learn.codingdojo.com/m/13/3680/32584
 
-###Finding Characters
+### Finding Characters
 http://learn.codingdojo.com/m/13/3680/32623
 
-###Checkerboard
+### Checkerboard
 http://learn.codingdojo.com/m/13/3680/32593
 
-###Fun with Functions
+### Fun with Functions
 http://learn.codingdojo.com/m/13/3680/24638
 
-###Scores and Grades
+### Scores and Grades
 http://learn.codingdojo.com/m/13/3680/24632
 
-###Coin Tosses
+### Coin Tosses
 http://learn.codingdojo.com/m/13/3680/24635
 
-###Stars
+### Stars
 http://learn.codingdojo.com/m/13/3680/24637
 
-###Dictionary Basics
+### Dictionary Basics
 http://learn.codingdojo.com/m/13/3680/32598
 
-###Names
+### Names
 http://learn.codingdojo.com/m/13/3680/24636
 
-###Making Tuples
+### Making Tuples
 http://learn.codingdojo.com/m/13/3680/32600
 
-###Lists to Dict
+### Lists to Dict
 http://learn.codingdojo.com/m/13/3680/32601
 
-###(optional) Multiplication Table
+### (optional) Multiplication Table
 http://learn.codingdojo.com/m/13/3680/32597
 
-###(optional) The Requests Library
+### (optional) The Requests Library
 http://learn.codingdojo.com/m/13/3680/32626
 
-###(optional) Numpy
+### (optional) Numpy
 http://learn.codingdojo.com/m/13/3680/32627
